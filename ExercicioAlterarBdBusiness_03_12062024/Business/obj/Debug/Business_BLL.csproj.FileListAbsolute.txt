@@ -1,0 +1,5 @@
+C:\Curso programar\C#\ExercicioAlterarBdBusiness_03_12062024\Business\bin\Debug\Business.dll
+C:\Curso programar\C#\ExercicioAlterarBdBusiness_03_12062024\Business\bin\Debug\Business.pdb
+C:\Curso programar\C#\ExercicioAlterarBdBusiness_03_12062024\Business\obj\Debug\Business_BLL.csprojResolveAssemblyReference.cache
+C:\Curso programar\C#\ExercicioAlterarBdBusiness_03_12062024\Business\obj\Debug\Business.dll
+C:\Curso programar\C#\ExercicioAlterarBdBusiness_03_12062024\Business\obj\Debug\Business.pdb

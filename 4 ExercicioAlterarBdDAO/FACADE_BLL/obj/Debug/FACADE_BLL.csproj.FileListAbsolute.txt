@@ -1,0 +1,9 @@
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\bin\Debug\FACADE_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\bin\Debug\FACADE_BLL.pdb
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\bin\Debug\DAO_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\bin\Debug\DAO_BLL.pdb
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\obj\Debug\FACADE_BLL.csproj.AssemblyReference.cache
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\obj\Debug\FACADE_BLL.csproj.CoreCompileInputs.cache
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\obj\Debug\FACADE_BLL.csproj.Up2Date
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\obj\Debug\FACADE_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\FACADE_BLL\obj\Debug\FACADE_BLL.pdb

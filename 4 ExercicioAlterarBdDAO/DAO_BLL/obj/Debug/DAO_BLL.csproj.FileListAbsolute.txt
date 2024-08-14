@@ -1,0 +1,6 @@
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\DAO_BLL\bin\Debug\DAO_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\DAO_BLL\bin\Debug\DAO_BLL.pdb
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\DAO_BLL\obj\Debug\DAO_BLL.csproj.AssemblyReference.cache
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\DAO_BLL\obj\Debug\DAO_BLL.csproj.CoreCompileInputs.cache
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\DAO_BLL\obj\Debug\DAO_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\DAO_BLL\obj\Debug\DAO_BLL.pdb

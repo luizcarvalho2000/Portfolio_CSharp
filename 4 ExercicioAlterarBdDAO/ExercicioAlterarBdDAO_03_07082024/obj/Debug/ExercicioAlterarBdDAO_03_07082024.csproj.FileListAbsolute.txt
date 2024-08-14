@@ -1,0 +1,17 @@
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\ExercicioAlterarBdDAO_03_07082024.csproj.AssemblyReference.cache
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\ExercicioAlterarBdDAO_03_07082024.frmExercicioAlterarBdDAO_03_07082024.resources
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\ExercicioAlterarBdDAO_03_07082024.Properties.Resources.resources
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\ExercicioAlterarBdDAO_03_07082024.csproj.GenerateResource.cache
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\ExercicioAlterarBdDAO_03_07082024.csproj.CoreCompileInputs.cache
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\ExercicioAlterarBdDAO_03_07082024.exe.config
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\ExercicioAlterarBdDAO_03_07082024.exe
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\ExercicioAlterarBdDAO_03_07082024.pdb
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\Business_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\FACADE_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\DAO_BLL.dll
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\Business_BLL.pdb
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\FACADE_BLL.pdb
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\bin\Debug\DAO_BLL.pdb
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\Exercici.E41B50F7.Up2Date
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\ExercicioAlterarBdDAO_03_07082024.exe
+C:\Curso programar\C#\ExercicioAlterarBdDAO_03_07082024\ExercicioAlterarBdDAO_03_07082024\obj\Debug\ExercicioAlterarBdDAO_03_07082024.pdb

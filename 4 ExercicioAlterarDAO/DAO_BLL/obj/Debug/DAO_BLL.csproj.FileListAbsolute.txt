@@ -1,8 +1,0 @@
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\bin\Debug\Preferencias_3_09022024.mdb
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\bin\Debug\DAO_BLL.dll.config
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\bin\Debug\DAO_BLL.dll
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\bin\Debug\DAO_BLL.pdb
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\obj\Debug\DAO_BLL.csproj.AssemblyReference.cache
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\obj\Debug\DAO_BLL.csproj.CoreCompileInputs.cache
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\obj\Debug\DAO_BLL.dll
-C:\Users\v_and\source\repos\ExercicioAlterarDAO_03_10072024\DAO_BLL\obj\Debug\DAO_BLL.pdb

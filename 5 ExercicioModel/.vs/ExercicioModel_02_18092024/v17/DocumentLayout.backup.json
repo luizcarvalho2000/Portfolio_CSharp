@@ -1,0 +1,161 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B75B36-B735-4592-AAA9-1FF9EFC429FC}|ExercicioModel_02_18092024\\ExercicioModel_02_18092024.csproj|C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\exerciciomodel_02_18092024\\frmexerciciomodel_02_18092024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A5B75B36-B735-4592-AAA9-1FF9EFC429FC}|ExercicioModel_02_18092024\\ExercicioModel_02_18092024.csproj|solutionrelative:exerciciomodel_02_18092024\\frmexerciciomodel_02_18092024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B75B36-B735-4592-AAA9-1FF9EFC429FC}|ExercicioModel_02_18092024\\ExercicioModel_02_18092024.csproj|C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\exerciciomodel_02_18092024\\frmexerciciomodel_02_18092024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5B75B36-B735-4592-AAA9-1FF9EFC429FC}|ExercicioModel_02_18092024\\ExercicioModel_02_18092024.csproj|solutionrelative:exerciciomodel_02_18092024\\frmexerciciomodel_02_18092024.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46B9ED9-6827-447C-99A8-7761268E65E7}|DAO_BLL\\DAO_BLL.csproj|C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\DAO_BLL\\DB_DAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46B9ED9-6827-447C-99A8-7761268E65E7}|DAO_BLL\\DAO_BLL.csproj|solutionrelative:DAO_BLL\\DB_DAO.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC358815-12D5-4C9B-BBEB-21511F36AA1F}|FACEDE_BLL\\FACEDE_BLL.csproj|C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\FACEDE_BLL\\PreferenciasFD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC358815-12D5-4C9B-BBEB-21511F36AA1F}|FACEDE_BLL\\FACEDE_BLL.csproj|solutionrelative:FACEDE_BLL\\PreferenciasFD.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5B75B36-B735-4592-AAA9-1FF9EFC429FC}|ExercicioModel_02_18092024\\ExercicioModel_02_18092024.csproj|C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\ExercicioModel_02_18092024\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A5B75B36-B735-4592-AAA9-1FF9EFC429FC}|ExercicioModel_02_18092024\\ExercicioModel_02_18092024.csproj|solutionrelative:ExercicioModel_02_18092024\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A46B9ED9-6827-447C-99A8-7761268E65E7}|DAO_BLL\\DAO_BLL.csproj|c:\\curso programar\\c#\\exerciciomodel_02_18092024\\dao_bll\\preferenciasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A46B9ED9-6827-447C-99A8-7761268E65E7}|DAO_BLL\\DAO_BLL.csproj|solutionrelative:dao_bll\\preferenciasdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE3BE2C6-25C4-4EC0-AC1C-477086191544}|MODEL_VO\\MODEL_VO.csproj|C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\model_vo\\preferenciasvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE3BE2C6-25C4-4EC0-AC1C-477086191544}|MODEL_VO\\MODEL_VO.csproj|solutionrelative:model_vo\\preferenciasvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE3BD900-0A7D-46BE-B903-53DC28BF3028}|Business_BLL\\Business_BLL.csproj|C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\Business_BLL\\Preferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE3BD900-0A7D-46BE-B903-53DC28BF3028}|Business_BLL\\Business_BLL.csproj|solutionrelative:Business_BLL\\Preferencias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DB_DAO.cs",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\DAO_BLL\\DB_DAO.cs",
+              "RelativeDocumentMoniker": "DAO_BLL\\DB_DAO.cs",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\DAO_BLL\\DB_DAO.cs",
+              "RelativeToolTip": "DAO_BLL\\DB_DAO.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAvwBYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T11:01:02.529Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\ExercicioModel_02_18092024\\App.config",
+              "RelativeDocumentMoniker": "ExercicioModel_02_18092024\\App.config",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\ExercicioModel_02_18092024\\App.config",
+              "RelativeToolTip": "ExercicioModel_02_18092024\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-25T11:04:11.989Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PreferenciasFD.cs",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\FACEDE_BLL\\PreferenciasFD.cs",
+              "RelativeDocumentMoniker": "FACEDE_BLL\\PreferenciasFD.cs",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\FACEDE_BLL\\PreferenciasFD.cs",
+              "RelativeToolTip": "FACEDE_BLL\\PreferenciasFD.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAE0AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:55:21.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmExercicioModel_02_18092024.cs",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs",
+              "RelativeDocumentMoniker": "ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs*",
+              "RelativeToolTip": "ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs*",
+              "ViewState": "AgIAAPgAAAAAAAAAAAAUwAkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:39:08.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmExercicioModel_02_18092024.cs [Design]",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs",
+              "RelativeDocumentMoniker": "ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs [Design]*",
+              "RelativeToolTip": "ExercicioModel_02_18092024\\frmExercicioModel_02_18092024.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T23:29:11.277Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PreferenciasDAO.cs",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\DAO_BLL\\PreferenciasDAO.cs",
+              "RelativeDocumentMoniker": "DAO_BLL\\PreferenciasDAO.cs",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\DAO_BLL\\PreferenciasDAO.cs",
+              "RelativeToolTip": "DAO_BLL\\PreferenciasDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAPAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:54:57.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PreferenciasVO.cs",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\MODEL_VO\\PreferenciasVO.cs",
+              "RelativeDocumentMoniker": "MODEL_VO\\PreferenciasVO.cs",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\MODEL_VO\\PreferenciasVO.cs",
+              "RelativeToolTip": "MODEL_VO\\PreferenciasVO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:55:50.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Preferencias.cs",
+              "DocumentMoniker": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\Business_BLL\\Preferencias.cs",
+              "RelativeDocumentMoniker": "Business_BLL\\Preferencias.cs",
+              "ToolTip": "C:\\Curso programar\\C#\\ExercicioModel_02_18092024\\Business_BLL\\Preferencias.cs",
+              "RelativeToolTip": "Business_BLL\\Preferencias.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T10:54:02.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Curso programar\C#\ExercicioModel_02_18092024\MODEL_VO\bin\Debug\MODEL_VO.dll
+C:\Curso programar\C#\ExercicioModel_02_18092024\MODEL_VO\bin\Debug\MODEL_VO.pdb
+C:\Curso programar\C#\ExercicioModel_02_18092024\MODEL_VO\obj\Debug\MODEL_VO.csproj.AssemblyReference.cache
+C:\Curso programar\C#\ExercicioModel_02_18092024\MODEL_VO\obj\Debug\MODEL_VO.csproj.CoreCompileInputs.cache
+C:\Curso programar\C#\ExercicioModel_02_18092024\MODEL_VO\obj\Debug\MODEL_VO.dll
+C:\Curso programar\C#\ExercicioModel_02_18092024\MODEL_VO\obj\Debug\MODEL_VO.pdb

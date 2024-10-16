@@ -1,0 +1,11 @@
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\obj\Debug\FACEDE_BLL.csproj.AssemblyReference.cache
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\obj\Debug\FACEDE_BLL.csproj.CoreCompileInputs.cache
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\bin\Debug\FACEDE_BLL.dll
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\bin\Debug\FACEDE_BLL.pdb
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\bin\Debug\DAO_BLL.dll
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\bin\Debug\MODEL_VO.dll
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\bin\Debug\DAO_BLL.pdb
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\bin\Debug\MODEL_VO.pdb
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\obj\Debug\FACEDE_BLL.csproj.Up2Date
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\obj\Debug\FACEDE_BLL.dll
+C:\Curso programar\C#\ExercicioModel_02_18092024\FACEDE_BLL\obj\Debug\FACEDE_BLL.pdb
